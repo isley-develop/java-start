@@ -7,5 +7,6 @@ public class Var3 {
         System.out.println(a);
         a = 50;
         System.out.println(a);
+        System.out.println("작성한 코드는 순서대로 실행된다");
     }
 }
