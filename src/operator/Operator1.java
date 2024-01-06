@@ -13,5 +13,17 @@ public class Operator1 {
         // 뺄셈
         int diff = a - b;
         System.out.println("a - b =" + diff);
+
+        // 곱셈
+        int multi = a * b;
+        System.out.println("a * b =" + multi);
+
+        // 나눗셈
+        int div = a / b;
+        System.out.println("a / b =" + div);
+
+        // 나머지
+        int mod = a % b;
+        System.out.println("a % b =" + mod);
     }
 }
