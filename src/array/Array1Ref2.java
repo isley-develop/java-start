@@ -16,5 +16,4 @@ public class Array1Ref2 {
             System.out.println("학생" + (i + 1) + " 점수: " + students[i]);
         }
     }
-
 }
